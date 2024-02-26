@@ -9,7 +9,7 @@
 
 ```vpm add repo https://vpm.tech.gyoku/vpm.json```
 
-or, if you have VRChat Creator Companion, [Click here](https://vpm.tech.gyoku/redirect.html).
+or, if you have VRChat Creator Companion, [Click here](https://vpm.gyoku.tech/redirect).
 
 ## Packages
 + FDMi
