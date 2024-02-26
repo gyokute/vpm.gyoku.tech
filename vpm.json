@@ -160,5 +160,9 @@
         }
       }
     }
-  }
+  },
+  "name": "gyokute",
+  "author": "gyokute",
+  "id": "tech.gyoku.main",
+  "url": "https://vpm.gyoku.tech/vpm.json"
 }
