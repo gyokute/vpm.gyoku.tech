@@ -1,0 +1,19 @@
+{
+    "name": "gyokute",
+    "id": "tech.gyoku.main",
+    "description": "gyokute packages",
+    "author": {
+        "name": "gyokute",
+        "url": "https://github.com/gyokute/"
+    },
+    "infoLink": {
+        "url": "https://github.com/gyokute/FDMi",
+        "text": "View on GitHub"
+    },
+    "bannerUrl": "banner.png",
+    "url": "https://vrchat.github.io/packages/index.json",
+    "githubRepos": [
+        "gyokute/FDMi"
+    ],
+    "packages": []
+}
