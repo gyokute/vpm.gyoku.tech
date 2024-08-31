@@ -165,7 +165,7 @@
         "2.0.1": {
           "name": "tech.gyoku.fdmi.editor",
           "version": "2.0.1",
-          "displayName": "FDMi-editor",
+          "displayName": "(!DEPRICATED, not to add later FDMi2.1.0!)FDMi-editor",
           "description": "Flight dynamics module for Udonsharp.",
           "author": {
             "name": "gyokute",
