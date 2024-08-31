@@ -14,7 +14,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.core-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -30,8 +32,28 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.core-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.core",
+          "displayName": "FDMi - Core",
+          "version": "2.1.0",
+          "description": "Imprimented variable abstraction and basic animation/transform system for VRChat.",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.core-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
@@ -50,7 +72,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.aerodynamics-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -66,8 +90,31 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.aerodynamics-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.aerodynamics",
+          "displayName": "FDMi - Aerodynamics",
+          "version": "2.1.0",
+          "vpmDependencies": {
+            "tech.gyoku.fdmi.core": "^2.1.0"
+          },
+          "description": "Realistic aerodynamic physics for VRChat.",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.aerodynamics-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
@@ -86,7 +133,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.avionics-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -102,8 +151,31 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.avionics-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.avionics",
+          "displayName": "FDMi - Avionics",
+          "version": "2.1.0",
+          "vpmDependencies": {
+            "tech.gyoku.fdmi.core": "^2.1.0"
+          },
+          "description": "Provides basic avionics system for FDMi.",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.avionics-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
@@ -122,7 +194,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.dynamics-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -138,8 +212,31 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.dynamics-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.dynamics",
+          "displayName": "FDMi - Dynamics",
+          "version": "2.1.0",
+          "vpmDependencies": {
+            "tech.gyoku.fdmi.core": "^2.1.0"
+          },
+          "description": "Physics/ dynamics aids, and internal combustion engine simulations for VRChat",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.dynamics-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
@@ -158,7 +255,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.editor-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -174,7 +273,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.editor-2.0.1.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
@@ -194,7 +295,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.example-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -210,8 +313,31 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.example-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.example",
+          "displayName": "FDMi - Example",
+          "version": "2.1.0",
+          "vpmDependencies": {
+            "tech.gyoku.fdmi.core": "^2.1.0"
+          },
+          "description": "Example packages for FDMi.",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.example-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
@@ -230,7 +356,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.input-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -246,8 +374,31 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.input-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.input",
+          "displayName": "FDMi - Input",
+          "version": "2.1.0",
+          "vpmDependencies": {
+            "tech.gyoku.fdmi.core": "^2.1.0"
+          },
+          "description": "Advanced full-grabbable interaction inputs for VRChat.",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.input-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
@@ -266,7 +417,9 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.sync-2.0.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         },
@@ -282,8 +435,31 @@
           "unity": "2019.4",
           "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
           "license": "MIT",
-          "keywords": ["Udonsharp"],
+          "keywords": [
+            "Udonsharp"
+          ],
           "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.sync-2.0.1.zip?",
+          "repo": "https://vpm.gyoku.tech/vpm.json"
+        },
+        "2.1.0": {
+          "name": "tech.gyoku.fdmi.sync",
+          "displayName": "FDMi - Sync",
+          "version": "2.1.0",
+          "vpmDependencies": {
+            "tech.gyoku.fdmi.core": "^2.1.0"
+          },
+          "description": "Allowing planet-scele travel without float-prescision in VRChat.",
+          "author": {
+            "name": "gyokute",
+            "email": "gyokutech@gmail.com",
+            "url": "https://github.com/gyokute"
+          },
+          "licensesUrl": "https://github.com/gyokute/FDMi/blob/main/LICENSE",
+          "license": "MIT",
+          "keywords": [
+            "Udonsharp"
+          ],
+          "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.sync-2.1.0.zip?",
           "repo": "https://vpm.gyoku.tech/vpm.json"
         }
       }
