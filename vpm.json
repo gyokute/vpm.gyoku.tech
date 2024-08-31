@@ -144,7 +144,7 @@
         }
       }
     },
-    "tech.gyoku.fdmi.editor": {
+    "(!DEPRICATED, not to add later FDMi2.1.0!)tech.gyoku.fdmi.editor": {
       "versions": {
         "2.0.0": {
           "name": "tech.gyoku.fdmi.editor",
